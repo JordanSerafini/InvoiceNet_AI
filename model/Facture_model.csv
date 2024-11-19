@@ -1,0 +1,19 @@
+{
+  "Client_Expediteur": "",
+  "Date": "",
+  "Articles": [
+    {
+      "description": "",
+      "quantité": "",
+      "prix_HT": ""
+    },
+    {
+      "description": "",
+      "quantité": "",
+      "prix_HT": ""
+    }
+  ],
+  "Total_HT": "",
+  "TVA": "",
+  "Total_TTC": ""
+}

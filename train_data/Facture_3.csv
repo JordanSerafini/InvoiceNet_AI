@@ -1,0 +1,14 @@
+{
+  "Client_Expediteur": "MAC WAY",
+  "Date": "25/10/2024",
+  "Articles": [
+    {
+      "description": "Boîtier ioSafe 218 - Serveur NAS 2 baies waterproof et fireproof",
+      "quantité": "2",
+      "prix_HT": "741.67"
+    }
+  ],
+  "Total_HT": "1483.34",
+  "TVA": "296.67",
+  "Total_TTC": "1780.01"
+}

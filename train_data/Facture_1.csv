@@ -1,0 +1,79 @@
+{
+  "Client_Expediteur": "SEWAN COMMUNICATIONS",
+  "Date": "05/11/2024",
+  "Articles": [
+    {
+      "description": "Consommations sewan",
+      "quantité": "1.00",
+      "prix_HT": "54.50"
+    },
+    {
+      "description": "Trunk SIP 4AS (Illimité fixe et mobile + 70 destinations)",
+      "quantité": "1.00",
+      "prix_HT": "1639.00"
+    },
+    {
+      "description": "1 adresse IPv4 publique",
+      "quantité": "1.00",
+      "prix_HT": "36.00"
+    },
+    {
+      "description": "Lignes téléphoniques",
+      "quantité": "1.00",
+      "prix_HT": "111.32"
+    },
+    {
+      "description": "Abonnement VGA",
+      "quantité": "1.00",
+      "prix_HT": "2505.50"
+    },
+    {
+      "description": "Numéro VoIP",
+      "quantité": "1.00",
+      "prix_HT": "73.40"
+    },
+    {
+      "description": "Abonnement mobile",
+      "quantité": "1.00",
+      "prix_HT": "458.00"
+    },
+    {
+      "description": "Location de matériel",
+      "quantité": "1.00",
+      "prix_HT": "57.00"
+    },
+    {
+      "description": "Trunk SIP 6AS (Illimité fixe et mobile + 70 destinations) - Forfait Mensuel",
+      "quantité": "1.00",
+      "prix_HT": "9.36"
+    },
+    {
+      "description": "FTTH Bouygues (1 Gb / 200Mb)",
+      "quantité": "1.00",
+      "prix_HT": "20.16"
+    },
+    {
+      "description": "Frais de mise en service Trunk SIP 6AS",
+      "quantité": "1.00",
+      "prix_HT": "80.00"
+    },
+    {
+      "description": "Surcoût numéro étranger - SOS RAYONNAGE",
+      "quantité": "1.00",
+      "prix_HT": "15.00"
+    },
+    {
+      "description": "Frais de raccordement",
+      "quantité": "1.00",
+      "prix_HT": "15.00"
+    },
+    {
+      "description": "Avoir sur Non Restitution de Box client ALP VRD",
+      "quantité": "1.00",
+      "prix_HT": "-200.00"
+    }
+  ],
+  "Total_HT": "5109.24",
+  "TVA": "-18.40",
+  "Total_TTC": "5090.84"
+}

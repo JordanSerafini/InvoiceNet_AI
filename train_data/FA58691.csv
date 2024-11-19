@@ -1,0 +1,19 @@
+{
+  "Client_Expediteur": "IR&L Solutions",
+  "Date": "07/11/2024",
+  "Articles": [
+    {
+      "description": "ISL Online 1 an\nSKU : ISL1A\nISL Online\nAbonnement Annuel pour 1 licence\nService de support et d'accès à distance et de live chat\nNombre d'utilisateurs illimité\nNombre d'appareils illimité\nPrise en charge des appareils mobiles\nConnexion via RDP\nGestion des utilisateurs\nAutorisations de périphérique\nPersonnalisation\nMulti-session",
+      "quantité": "5.00",
+      "prix_HT": "358.80"
+    },
+    {
+      "description": "Remise sur ISL Online\nSKU : RISL\nRemise de 5% pour opérateurs multiples",
+      "quantité": "1.00",
+      "prix_HT": "-149.50"
+    }
+  ],
+  "Total_HT": "1644.50",
+  "TVA": "328.90",
+  "Total_TTC": "1973.40"
+}

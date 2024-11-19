@@ -1,0 +1,14 @@
+{
+  "Client_Expediteur": "SAS EASYLAMPS",
+  "Date": "26/09/2024",
+  "Articles": [
+    {
+      "description": "Ecran Easypitch Spark 65\"",
+      "quantité": "1",
+      "prix_HT": "2304.00"
+    }
+  ],
+  "Total_HT": "2304.00",
+  "TVA": "460.80",
+  "Total_TTC": "2764.80"
+}
